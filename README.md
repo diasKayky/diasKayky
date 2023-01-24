@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Tableau</strong>, <strong>Numpy</strong>, <strong>Scipy</strong>, <strong>Sklearn</strong>, <strong>Keras</strong>, <strong>Tensorflow</strong>, <strong>Excel</strong>, <strong>TabPy</strong>.
+  💼 Ferramentas: <strong>Tableau</strong>, <strong>Matplotlib</strong>, <strong>Seaborn</strong>, <strong>Plotly</strong>, <strong>Numpy</strong>, <strong>Scipy</strong>, <strong>Sklearn</strong>, <strong>Keras</strong>, <strong>Tensorflow</strong>, <strong>Excel</strong>, <strong>TabPy</strong>.
 </p>
 
 <h2> Estatísticas </h2>
