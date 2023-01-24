@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-    🦄 Linguagens: <strong>Python</strong>, <strong>SQL</strong>, <strong>R</strong>
+    🦄 Linguagens: <strong>Python</strong>, <strong>SQL</strong>, <strong>R</strong>, <strong>VBA</strong>
 </p>
 
 <p align="left">
