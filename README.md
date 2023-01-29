@@ -3,7 +3,7 @@
 <p align="left"> 
   Sou Cientista de Dados Júnior. Tenho 18 anos, moro no Rio de Janeiro, sou apaixonado por programação e tecnologia. Tenho interesse enorme em trabalhar com Data Science e ML Engineering para explorar sua capacidade de solucionar problemas. 
   
-  Durante um ano e três meses, fui Jovem Aprendiz na empresa Pagar.me, integrante do grupo Stone Co, onde auxiliei na análise de dados dos KPIs dos principais produtos da companhia — com ênfase em conversão. Cursando Bacharelado em Engenharia de Software na Estácio de Sá. Bacharelado em Física na Universidade de São Paulo (USP) incompleto. Técnico em Logística Comercial pelo SENAC-RJ. 
+  Durante um ano e três meses, fui Jovem Aprendiz na empresa Pagar.me, integrante do grupo Stone Co, onde auxiliei na análise de dados dos KPIs dos principais produtos da companhia — com ênfase em conversão. Atualmente, estou cursando Bacharelado em Engenharia de Software na Estácio de Sá. Bacharelado em Física na Universidade de São Paulo (USP) incompleto. Técnico em Logística Comercial pelo SENAC-RJ. 
 </p>
 
 <p align="left">
