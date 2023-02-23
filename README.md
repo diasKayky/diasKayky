@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou Cientista de Dados Júnior. Tenho 18 anos, moro no Rio de Janeiro, sou apaixonado por programação e tecnologia. Tenho interesse enorme em trabalhar com Data Science e ML Engineering para explorar sua capacidade de solucionar problemas. 
+  Sou Analista de Dados Júnior. Tenho 18 anos, moro no Rio de Janeiro, sou apaixonado por programação e tecnologia. Tenho interesse enorme em trabalhar com Data Science e ML Engineering para explorar sua capacidade de solucionar problemas. 
   
   Durante um ano e três meses, fui Jovem Aprendiz na empresa Pagar.me, integrante do grupo Stone Co, onde auxiliei na análise de dados dos KPIs dos principais produtos da companhia — com ênfase em conversão. 
   
