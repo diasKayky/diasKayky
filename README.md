@@ -25,7 +25,7 @@
 
 <br>
 <p align="left">
-  💌 Você ter mais informações por aqui! ⤵️
+  💌 Você pode ter mais informações por aqui! ⤵️
 </p>
 
 <p align="left">
