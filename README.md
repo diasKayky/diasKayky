@@ -25,7 +25,7 @@
 
 <br>
 <p align="left">
-  💌 Você pode falar comigo por aqui! ⤵️
+  💌 Você ter mais informações por aqui! ⤵️
 </p>
 
 <p align="left">
@@ -35,6 +35,6 @@
   <a href="https://www.linkedin.com/in/kayky-dias/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://www.instagram.com/rskaykyy/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+  <a href="https://drive.google.com/file/d/1TpdpavjaZoCcXs8XA05AjYgOA4aPS9Ww/view?usp=sharing" alt="CV PDF">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a> 
