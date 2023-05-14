@@ -1,9 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="left">
 
 <p align="left"> 
-  Sou Analista de Dados Júnior e sou apaixonado por programação e tecnologia. Tenho interesse enorme em trabalhar com Data Science para explorar sua capacidade de solucionar problemas. Durante um ano e três meses, fui Aprendiz na empresa Stone Co, onde auxiliei na análise de dados dos KPIs dos principais produtos da companhia — com ênfase em conversão. 
+  Sou Analista de Dados Júnior e tenho interesse enorme em trabalhar com Data Science para explorar sua capacidade de solucionar problemas. Durante um ano e três meses, fui Aprendiz na empresa Stone Co, onde auxiliei na análise de dados dos KPIs dos principais produtos da companhia — com ênfase em conversão. 
   
-  Tenho um portfólio diversificado de projetos que mostram minha habilidade em aplicar técnicas de IA e machine learning na prática. Destaque para o Sent.AI, uma aplicação de IA que analisa avaliações nas redes sociais, usando redes neurais e floresta aleatória, para identificar o sentimento geral, emoção predominante e se um comentário possui recomendação acionável. Desenvolvi uma aplicação que prevê a probabilidade de uma transação de cartão de crédito ser fraudulenta, com 84% de precisão. NeoplasmClassifier, outra criação minha, é uma ferramenta que classifica tecidos neoplásicos em maligno ou benigno, com uma precisão de 93% nos testes. Também liderei o desenvolvimento de um modelo preditivo de Churn usando Random Forest, prevendo a probabilidade de cancelamento de serviços em uma empresa aérea.
+  Tenho um portfólio diversificado de projetos que mostram minha habilidade em aplicar técnicas de machine learning na prática. Destaque para o <a href="https://github.com/diasKayky/sent-ai-core">Sent.AI<a/>, uma aplicação de IA que analisa avaliações nas redes sociais, usando ANN e RF, para identificar o sentimento geral, emoção predominante e se um comentário possui recomendação. 
+  
+  Desenvolvi uma <a href="https://github.com/diasKayky/predicao_fraude-random-forest">aplicação<a/> que prevê a probabilidade de uma transação de cartão de crédito ser fraudulenta, com 84% de precisão. <a href="https://github.com/diasKayky/breast-cancer-classification">NeoplasmClassifier<a/>, outra criação minha, é uma ferramenta que classifica neoplasias em malignas ou benignas, com uma precisão de 93% nos testes. Também liderei o desenvolvimento de um <a href="https://github.com/diasKayky/churn-predictive-analysis">modelo preditivo de churn<a/> usando RF, que prevê a probabilidade do cancelamento de serviços em uma empresa aérea.
 </p>
 
 <p align="left">
