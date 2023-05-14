@@ -5,7 +5,9 @@
   
   Durante um ano e três meses, fui Jovem Aprendiz na empresa Pagar.me, integrante do grupo Stone Co, onde auxiliei na análise de dados dos KPIs dos principais produtos da companhia — com ênfase em conversão. 
   
-  Atualmente, estou cursando Bacharelado em Engenharia de Software na Estácio de Sá. Bacharelado em Física na Universidade de São Paulo (USP) incompleto. Técnico em Logística Comercial pelo SENAC-RJ. 
+  Tenho um portfólio diversificado de projetos que mostram minha habilidade em aplicar técnicas avançadas de IA e machine learning na prática. Destaque para o Sent.AI, uma aplicação de IA que analisa avaliações nas redes sociais, usando redes neurais e floresta aleatória, para identificar o sentimento geral, emoção predominante e se um comentário possui recomendação acionável. 
+  
+  Desenvolvi uma aplicação que prevê a probabilidade de uma transação de cartão de crédito ser fraudulenta, com 84% de precisão. O NeoplasmClassifier, outra criação minha, é uma ferramenta que classifica tecidos neoplásicos em maligno ou benigno, com uma precisão de 93% nos testes. Também liderei o desenvolvimento de um modelo preditivo de Churn usando Random Forest, prevendo a probabilidade de cancelamento de serviços em uma empresa aérea. Além disso, tenho experiência na construção de dashboards sucintas e informativas em Power BI.
 </p>
 
 <p align="left">
