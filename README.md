@@ -1,13 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou Analista de Dados Júnior, moro no Rio de Janeiro e sou apaixonado por programação e tecnologia. Tenho interesse enorme em trabalhar com Data Science e ML Engineering para explorar sua capacidade de solucionar problemas. 
+  Sou Analista de Dados Júnior, moro no Rio de Janeiro e sou apaixonado por programação e tecnologia. Tenho interesse enorme em trabalhar com Data Science e ML Engineering para explorar sua capacidade de solucionar problemas. Durante um ano e três meses, fui Jovem Aprendiz na empresa Pagar.me, integrante do grupo Stone Co, onde auxiliei na análise de dados dos KPIs dos principais produtos da companhia — com ênfase em conversão. 
   
-  Durante um ano e três meses, fui Jovem Aprendiz na empresa Pagar.me, integrante do grupo Stone Co, onde auxiliei na análise de dados dos KPIs dos principais produtos da companhia — com ênfase em conversão. 
-  
-  Tenho um portfólio diversificado de projetos que mostram minha habilidade em aplicar técnicas avançadas de IA e machine learning na prática. Destaque para o Sent.AI, uma aplicação de IA que analisa avaliações nas redes sociais, usando redes neurais e floresta aleatória, para identificar o sentimento geral, emoção predominante e se um comentário possui recomendação acionável. 
-  
-  Desenvolvi uma aplicação que prevê a probabilidade de uma transação de cartão de crédito ser fraudulenta, com 84% de precisão. O NeoplasmClassifier, outra criação minha, é uma ferramenta que classifica tecidos neoplásicos em maligno ou benigno, com uma precisão de 93% nos testes. Também liderei o desenvolvimento de um modelo preditivo de Churn usando Random Forest, prevendo a probabilidade de cancelamento de serviços em uma empresa aérea. Além disso, tenho experiência na construção de dashboards sucintas e informativas em Power BI.
+  Tenho um portfólio diversificado de projetos que mostram minha habilidade em aplicar técnicas avançadas de IA e machine learning na prática. Destaque para o Sent.AI, uma aplicação de IA que analisa avaliações nas redes sociais, usando redes neurais e floresta aleatória, para identificar o sentimento geral, emoção predominante e se um comentário possui recomendação acionável. Desenvolvi uma aplicação que prevê a probabilidade de uma transação de cartão de crédito ser fraudulenta, com 84% de precisão. O NeoplasmClassifier, outra criação minha, é uma ferramenta que classifica tecidos neoplásicos em maligno ou benigno, com uma precisão de 93% nos testes. Também liderei o desenvolvimento de um modelo preditivo de Churn usando Random Forest, prevendo a probabilidade de cancelamento de serviços em uma empresa aérea.
 </p>
 
 <p align="left">
