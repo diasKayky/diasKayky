@@ -18,9 +18,10 @@
 
 <h2> Estatísticas </h2>
 <div>
-<a href="https://github.com/diasKayky">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diasKayky&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=diasKayky&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diasKayky&theme=default)
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diasKayky&theme=default)
 </div>
 
 <br>
