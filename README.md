@@ -36,6 +36,6 @@
   <a href="https://www.linkedin.com/in/kayky-dias/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://drive.google.com/file/d/1TpdpavjaZoCcXs8XA05AjYgOA4aPS9Ww/view?usp=sharing" alt="CV PDF">
+  <a href="https://drive.google.com/file/d/1EBlhJodtD0c9rxcOD8S6cjRle1kRq_cA/view?usp=sharing" alt="CV PDF">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a> 
